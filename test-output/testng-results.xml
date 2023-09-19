@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-18T21:24:23 PDT" name="Suite" finished-at="2023-09-18T21:24:30 PDT" duration-ms="6616">
+    <groups>
+    </groups>
+    <test started-at="2023-09-18T21:24:23 PDT" name="Test" finished-at="2023-09-18T21:24:30 PDT" duration-ms="6616">
+      <class name="testCases.TC_001Udemy">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.TC_001Udemy@1caa0244]" started-at="2023-09-18T21:24:24 PDT" name="setup" finished-at="2023-09-18T21:24:29 PDT" duration-ms="5544" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="logging_In()[pri:0, instance:testCases.TC_001Udemy@1caa0244]" started-at="2023-09-18T21:24:29 PDT" name="logging_In" finished-at="2023-09-18T21:24:29 PDT" duration-ms="144" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logging_In -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_001Udemy@1caa0244]" started-at="2023-09-18T21:24:29 PDT" name="tearDown" finished-at="2023-09-18T21:24:30 PDT" duration-ms="254" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC_001Udemy -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
